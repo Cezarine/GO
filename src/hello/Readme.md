@@ -1,0 +1,1 @@
+Comando pra Rodar -> go run "nome do exe/projeto mais a extensão"
